@@ -1,0 +1,45 @@
+body{
+    background-color: cyan;
+}
+.resource{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 50px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+input{
+    background-color: aqua;
+    border-radius: 10px;
+    border: 0px;
+}
+.sharl{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+button{
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    background-color: aqua;
+    border: 0px;
+}
+.robby{
+    display: flex;
+    justify-content: center;
+    
+}
+p{
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: deepskyblue;
+}
+

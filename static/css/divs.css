@@ -1,0 +1,29 @@
+.empty{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+}
+.empty1{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+}
+.empty2{
+    background-color:blueviolet;
+     width: 200px;
+    height: 200px;
+    margin: 15px;
+}
+.empty3{
+    background-color: brown;
+     width: 200px;
+    height: 200px;
+    margin: 15px;
+}
+.boss{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
